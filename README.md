@@ -1,2 +1,1 @@
-# dogecoin
-dogecoin wallet
+# minersu
